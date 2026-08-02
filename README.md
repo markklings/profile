@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Julian Gonzales Guerrero</h1>
-<h3 align="center">A Passionate Full Stack Website Developer In The Philippines, I'm 16 Year's Old And My Dream Is To Become A Cyber-Security Expert Or Become A Game Developer Or Computer Programmer.</h3>
+<h3 align="center">A Passionate Full Stack Website Developer In The Philippines, I'm 18 Year's Old And My Dream Is To Become A Cyber-Security Expert Or Become A Game Developer Or Computer Programmer.</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking, Reverse Engineering And Mobile App Development**
 
-- 💬 Ask me about **html, css, javascript, php, mysql, laravel, nodejs, reactjs, mongodb**
+- 💬 Ask me about **html, css, javascript, php, mysql, laravel, nodejs, reactjs, mongodb, ai**
 
 - 📫 How to reach me **marklings091@gmail.com**
 
