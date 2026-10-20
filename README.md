@@ -1,21 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mark Julian Gonzales Guerrero</h1>
-<h3 align="center">A Passionate Full Stack Website Developer In The Philippines, I'm 18 Year's Old And My Dream Is To Become A Cyber-Security Expert Or Become A Game Developer Or Computer Programmer.</h3>
-
-- 🌱 I’m currently learning **Ethical Hacking, Reverse Engineering And Mobile App Development**
-
-- 💬 Ask me about **html, css, javascript, php, mysql, laravel, nodejs, reactjs, mongodb, ai**
-
-- 📫 How to reach me **marklings091@gmail.com**
-
-- ⚡ Fun fact **I'm A Music Sheets Composer, And I Love To Watch Movies**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mark julian guerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mark julian guerrero" height="30" width="40" /></a>
-<a href="https://instagram.com/im_not_marklingsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_not_marklingsss" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=markklings&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221529063%3Fu%3D1b4f38de60016ed5ef51c24ca631854e50d94b06%26v%3D4" alt="markklings hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center"><b>Mark Julian Guerrero</b> · Frontend or full-stack engineer<br/><sub>A Full-Stack Website Developer and Mobile App Developer that now focusing on AI Integration</sub></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markklings&show_icons=true&theme=dracula&locale=en" alt="markklings" /></p>
+<p align="center"><a href="https://github.com/markklings">GitHub</a> · <a href="https://guerreromark.vercel.app">Website</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=markklings&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221529063%3Fu%3D1b4f38de60016ed5ef51c24ca631854e50d94b06%26v%3D4" alt="markklings projects visual" />
+</p>
+
+- [amlumina-ai](https://github.com/markklings/amlumina-ai) · ★ 0 — Amlumina AI: An AI Educational Companion used as guide for studying with a way of method (e.g. Socra
+- [Portfolio-v2](https://github.com/markklings/Portfolio-v2) · ★ 0
+- [swift-stream](https://github.com/markklings/swift-stream) · ★ 0
+- [announcement-system](https://github.com/markklings/announcement-system) · ★ 0 — A centralized, reliable, user-friendly web application where teachers and class officers can post-re
+- [Syllaba-AI](https://github.com/markklings/Syllaba-AI) · ★ 0 — Turn your manual process of checking on Google Classroom into one and simple conversation
+- [TEN-E](https://github.com/markklings/TEN-E) · ★ 0 — A all in one mobile application build on react native, applicable use for student for management
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=markklings&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221529063%3Fu%3D1b4f38de60016ed5ef51c24ca631854e50d94b06%26v%3D4" alt="markklings stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>8</b> public repositories, <b>0</b> stars, <b>50</b> contributions in the last year, a longest streak of <b>2</b> days and <b>0</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=markklings&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221529063%3Fu%3D1b4f38de60016ed5ef51c24ca631854e50d94b06%26v%3D4" alt="markklings stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=markklings&theme=neon" alt="markklings contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=markklings&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F221529063%3Fu%3D1b4f38de60016ed5ef51c24ca631854e50d94b06%26v%3D4" alt="markklings social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Mark Julian Guerrero · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
